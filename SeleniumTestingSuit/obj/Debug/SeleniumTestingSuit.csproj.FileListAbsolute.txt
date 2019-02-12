@@ -1,0 +1,45 @@
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\SeleniumTestingSuit.exe.config
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\SeleniumTestingSuit.exe
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\SeleniumTestingSuit.pdb
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\nunit.framework.dll
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\WebDriver.dll
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\WebDriver.Support.dll
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\nunit.framework.pdb
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\nunit.framework.xml
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\WebDriver.xml
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\WebDriver.Support.xml
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.csprojAssemblyReference.cache
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.csproj.CoreCompileInputs.cache
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.csproj.CopyComplete
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.exe
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.pdb
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\Excel.dll
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\Excel.pdb
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\DevOps-05\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\SeleniumTestingSuit.exe.config
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\SeleniumTestingSuit.exe
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\SeleniumTestingSuit.pdb
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\Excel.dll
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\nunit.framework.dll
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\OfficeOpenXml.Core.ExcelPackage.dll
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\WebDriver.dll
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\WebDriver.Support.dll
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\Excel.pdb
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\nunit.framework.pdb
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\nunit.framework.xml
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\OfficeOpenXml.Core.ExcelPackage.pdb
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\WebDriver.xml
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\WebDriver.Support.xml
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.csprojAssemblyReference.cache
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.csproj.CoreCompileInputs.cache
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.csproj.CopyComplete
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.exe
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.pdb
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\Interop.AutoItX3Lib.dll
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\obj\Debug\SeleniumTestingSuit.csproj.ResolveComReference.cache
+E:\Work Spaces\source\repos\SeleniumTestingSuit\SeleniumTestingSuit\bin\Debug\SeleniumExtras.PageObjects.dll
